@@ -4,7 +4,7 @@
 - 💻Currently Teaching Python and Machine Learning at **Sharif University**
 
 - 📚Libraries & frameworks:
-- **tensorflow, ultralytics, Pytorch, opencv, scikit-learn,
+ **tensorflow, ultralytics, Pytorch, opencv, scikit-learn,
                               numpy, pandas, matplotlib, django, streamlit, requests, kivy, etc.**
 
 - 💬Ask me about **learning python**
