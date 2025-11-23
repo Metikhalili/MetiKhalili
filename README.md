@@ -1,5 +1,6 @@
 <h1 align="center">Python Developer | ML Learner</h1>
 <h3 align="center">Camputer Engineer</h3>
+<img align="right" alt="." src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycWo4bGNkb2ZqZ3BicmRqcXQ1cno5cWUwMGZ5dXVmMHNoYTAyY3F2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/200.gif" >
 
 - 💻Currently Teaching Python and Machine Learning at **Sharif University**
 
@@ -11,7 +12,7 @@
 
 - 🔥Current Focus **advancing experience in deep learning architectures and AI research**
 
-- 🎴Powered by **Bushido Code**
+- 🎴Powered by **Bushido Code**  
 
 
 <p align="left">
