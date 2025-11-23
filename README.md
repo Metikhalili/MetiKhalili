@@ -1,5 +1,5 @@
 <h1 align="center">Python Developer | ML Learner</h1>
-<h3 align="center">Camputer Engineering</h3>
+<h3 align="center">Camputer Engineer</h3>
 
 - 💻Currently Teaching Python and Machine Learning at **Sharif University**
 
@@ -12,7 +12,7 @@
 
 - 🎴Powered by **Bushido Code**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
